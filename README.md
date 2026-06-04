@@ -1,10 +1,10 @@
 # Portafolio de Arquitectura y Organización de Archivos En Github - Semestre 2026
 
-Nombre: Kevin Daniel Esparza Ojeda
-Nº Control: 242310214
-Maestro: Jesús Salas Marín
-Carrera: Ingeniería Informática
-Escuela: Instituto Tecnológico Superior de Lerdo
+* Nombre: Kevin Daniel Esparza Ojeda
+* Nº Control: 242310214
+* Maestro: Jesús Salas Marín
+* Carrera: Ingeniería Informática
+* Escuela: Instituto Tecnológico Superior de Lerdo
 
 ![image alt](https://github.com/KvinEsparza/Portafolio_AdministracionOrganizacionDatosGit/blob/main/WhatsApp%20Image%202026-06-03%20at%209.49.33%20PM.jpeg?raw=true)
 
