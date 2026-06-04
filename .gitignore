@@ -1,0 +1,12 @@
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Carpetas de editores de código
+.vscode/
+.idea/
