@@ -14,8 +14,7 @@ Escuela: Instituto Tecnológico Superior de Lerdo
 
 
 
-!\[Kevin Esparza](https://github.com/KvinEsparza.png)
-
+![image alt](https://github.com/KvinEsparza/Portafolio_AdministracionOrganizacionDatosGit/blob/main/WhatsApp%20Image%202026-06-03%20at%209.49.33%20PM.jpeg?raw=true)
 
 
 \---
